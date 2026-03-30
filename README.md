@@ -1,6 +1,4 @@
-# Joel Vázquez López
-
-MSc Student in Language Technology, Uppsala University  
+Master Student in Language Technology, Uppsala University  
 Uppsala, Sweden  
 
 ---
