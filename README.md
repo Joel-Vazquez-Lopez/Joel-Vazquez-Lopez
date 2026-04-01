@@ -1,62 +1,38 @@
-Master Student in Language Technology, Uppsala University  
-Uppsala, Sweden  
+# 👋 Hi, I’m Joel
+
+**MSc Student in Language Technology**  
+Uppsala University — Uppsala, Sweden  
 
 ---
 
-## About
+## 🧠 About Me
 
-Master’s student in Language Technology with a background in linguistics and programming. My work focuses on computational linguistics and natural language processing, with particular interest in probabilistic language models and corpus-based analysis.
+I am a Master’s student in Language Technology with a background in linguistics and programming.
 
-I am interested in data-driven approaches to language research, combining theoretical linguistic insights with computational methods.
-
----
-
-## Projects
-
-### Bigram-Based Text Generator
-- Implemented a probabilistic language model in Python  
-- Built unigram and bigram frequency dictionaries  
-- Computed conditional probabilities for text generation  
-- Applied concepts such as entropy and surprisal  
-
+My main interests are **Natural Language Processing, Large Language Models, and language interaction with computers**. I am particularly interested in how language models process, represent, and use information during interaction.
 
 ---
 
-### Corpus-Based Analysis of Contemporary Grammar
-- Analysed case variation in coordinated pronouns using corpus data  
-- Combined quantitative and qualitative methods  
-- Final grade: 9.9  
+## 🛠️ Skills
 
+**Programming & NLP**
+- Python (data structures, text processing, OOP)
+- NLP fundamentals: tokenisation, n-gram models, probabilistic modelling
+- Data analysis: pandas, NumPy
 
----
+**Technical**
+- Linux, command line
+- SSH and remote environments
 
-### Multilingualism and Phonological Decoding
-- International Erasmus+ collaboration  
-- Analysed differences between mono- and multilingual speakers  
-- Presented results in an academic context  
-
----
-
-## Skills
-
-### Programming and NLP
-- Python: object-oriented programming, data structures, text processing  
-- NLP: n-gram language models, tokenisation, probabilistic modelling  
-- Data analysis: pandas, NumPy  
-- Linux and development tools: command line, SSH, remote environments  
-
-### Mathematics
-- Probability theory for language modelling  
-- Basic statistics  
-- Linear algebra fundamentals  
-
-### Other
-- Algorithmic problem solving  
-- Academic presentation and communication  
+**Mathematics**
+- Probability theory
+- Basic statistics
+- Linear algebra
 
 ---
 
-## Languages
+## 🌐 Languages
+
 - Galician — Native  
 - Spanish — Native  
 - English — C1  
@@ -66,14 +42,8 @@ I am interested in data-driven approaches to language research, combining theore
 
 ---
 
-## Current Focus
-- Extending NLP projects towards more advanced modelling approaches  
-- Developing reproducible and well-structured pipelines for language data  
-- Exploring machine learning methods for linguistic analysis  
+## 📫 Contact
 
----
-
-## Contact
-Email: joelvazquezlopez03@gmail.com  
-Location: Uppsala, Sweden  
+📧 joelvazquezlopez03@gmail.com  
+📍 Uppsala, Sweden   
 
