@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Joel
 
-**MSc Student in Language Technology**  
+**Master Student in Language Technology**  
 Uppsala University — Uppsala, Sweden  
 
 ---
